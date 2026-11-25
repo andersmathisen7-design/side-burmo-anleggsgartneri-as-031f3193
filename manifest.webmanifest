@@ -1,0 +1,25 @@
+{
+  "name": "Burmo Anleggsgartneri AS",
+  "short_name": "Burmo",
+  "description": "Burmo Anleggsgartneri AS på Hvalstad arbeider med beplantning av hager og parkanlegg. Send en e-post og fortell om uteområdet ditt.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7a4a2b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
